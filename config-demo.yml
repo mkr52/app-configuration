@@ -1,0 +1,5 @@
+build:
+  id: 10100
+  version: 1.2.4
+  name: "Config-GIT-Production-Build"
+  type: "Config GIT Build"
